@@ -1,0 +1,6 @@
+{
+  "name": "StreamOS — Cloud-Based Video Streaming OS Simulator",
+  "description": "Interactive OS algorithm simulator modeling CPU Scheduling, Producer-Consumer Bounded Buffer, Banker's Deadlock Avoidance, and Memory Management in a Cloud Streaming Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
